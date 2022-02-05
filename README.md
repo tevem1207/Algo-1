@@ -1,8 +1,8 @@
 # algo
 
 <div align=center>
-[![Forks Welcome](https://img.shields.io/badge/Fork-welcome!!-brightgreen.svg?style=flat-square)](https://github.com/tevem1207/Algo/fork)
 
+[![Forks Welcome](https://img.shields.io/badge/Fork-welcome!!-brightgreen.svg?style=flat-square)](https://github.com/tevem1207/Algo/fork)
 </div>
 
 # 알고리즘 스터디 📝
@@ -48,18 +48,12 @@ commit 규칙이 필요할까요? 회의 후 결정
 
 ## ✅ PR 규칙
 
--  PR제목, comment는 자유이나 가능하다면, <br>어느 부분이 어려웠는지 또는 어떻게 해결했는지 회고를 작성한다면 개인에게도 도움되고 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
+-  지정된 양식에 따라 작성
 
 
 <br />
 <br />
 
 ## ✅ (option)코드리뷰 규칙
-- 하고싶다면 PR에서 코드리뷰를 한다.
-- 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 의견제시
-  -   잘했다고 생각하는 부분
-  -   이렇게 하면 더 좋을 것 같다고 생각하는 부분
-  -   왜 이렇게 풀었는지 궁금한 부분
-  -   또 다른 풀이 방식 제시
-  -   등등
-- 양식은 자유!
+- PR에서 코드 리뷰를 한다.
+- 자유롭게
